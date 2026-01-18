@@ -16,6 +16,15 @@ This project provides a simple API bridge that allows:
 uvicorn bridge:app --host 0.0.0.0 --port 8000
 ```
 
+## OpenWebUI Pipe
+
+The OpenWebUI Pipe implementation is available here:
+
+- `openwebui_pipe.py`
+
+You can register this code via OpenWebUI Admin → Functions → Add Function.
+
+
 ## Article (Japanese)
 Qiita article:
 https://qiita.com/y_hoshiba/items/6de7c791dfea64955c9e
